@@ -13,3 +13,4 @@ First, you choose a country then there will be 4 visualizations:
 In that project, I used the wedgits from Ipython to make it easy to choose the wanted country.<br>
 And I used the canvas event from matplotlib to track down the mouse cursor morion, to find it's cordinates in any polt and to tell the number of affected cases.
 
+![](https://user-images.githubusercontent.com/65570007/82494475-ea77d200-9ae9-11ea-9095-06eb035b12d7.PNG)
