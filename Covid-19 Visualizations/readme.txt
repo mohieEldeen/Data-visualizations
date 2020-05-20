@@ -1,4 +1,4 @@
-#Covid-19 Visualizations
+# # Covid-19 Visualizations
 These visualizations is based on kaggle data on covid-19 competition.<br>
 the visualization data is updated until 30th of mars.<br>
 
